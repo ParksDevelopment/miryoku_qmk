@@ -1,2 +1,2 @@
 
-DEFAULT_FOLDER = tweetydabird/lotus58/promicro
+DEFAULT_FOLDER = tweetydabird/lotus58/nanoboot
